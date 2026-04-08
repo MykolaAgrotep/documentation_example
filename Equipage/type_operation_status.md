@@ -5,10 +5,10 @@
   
 ## Columns  
   
-| Name | Type | Constraints | Description |  
-|----------|-------------|------------|--------------------|  
-| id | BIGINT | PK | ID статуса |  
-| text_code| VARCHAR(100)| NOT NULL | Код статуса (ENUM) |  
+| Name      | Type         | Constraints | Description        |     |
+| --------- | ------------ | ----------- | ------------------ | --- |
+| id        | BIGINT       | PK          | ID статуса         |     |
+| text_code | VARCHAR(100) | NOT NULL    | Код статуса (ENUM) |     |
   
 ---  
   

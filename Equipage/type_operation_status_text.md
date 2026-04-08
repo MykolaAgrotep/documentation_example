@@ -6,12 +6,12 @@
 
 ## Columns
 
-| Name              | Type        | Constraints | Description                  |
-|------------------|------------|------------|------------------------------|
-| id               | BIGINT     | PK         | ID                           |
-| language_code_id | INTEGER    | FK         | → [[language_codes]]         |
-| references_to_id | INTEGER    | FK         | → [[type_operation_status]]  |
-| text_value       | VARCHAR(100)| NOT NULL  | Перевод статуса              |
+| Name             | Type         | Constraints | Description                 |
+| ---------------- | ------------ | ----------- | --------------------------- |
+| id               | BIGINT       | PK          | ID                          |
+| language_code_id | INTEGER      | FK          | → [[language_codes]]        |
+| references_to_id | INTEGER      | FK          | → [[type_operation_status]] |
+| text_value       | VARCHAR(100) | NOT NULL    | Перевод статуса             |
 
 ---
 

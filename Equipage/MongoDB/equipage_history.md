@@ -9,17 +9,17 @@
 
 ## Fields
 
-| Name                 | Type                       | Description                |
-| -------------------- | -------------------------- | -------------------------- |
-| id                   | String                     | MongoDB ID                 |
-| equipageId           | Long                       | ID экипажа                 |
-| actionType           | HistoryAction              | Тип действия               |
-| employees            | List<EmployeeReceivedDto>  | Список сотрудников         |
-| transports           | List<TransportReceivedDto> | Список транспорта          |
-| changedEmployeeId    | Long                       | Изменённый сотрудник       |
-| changedTransportId   | Long                       | Изменённый транспорт       |
-| changedTransportType | [[type_of_transports]]     | Тип изменённого транспорта |
-| actionDate           | Instant                    | Дата действия              |
+| Name                 | Type                           | Description                |
+| -------------------- | ------------------------------ | -------------------------- |
+| id                   | String                         | MongoDB ID                 |
+| equipageId           | Long                           | ID экипажа                 |
+| actionType           | HistoryAction                  | Тип действия               |
+| employees            | List<[[EmployeeReceivedDto]]>  | Список сотрудников         |
+| transports           | List<[[TransportReceivedDto]]> | Список транспорта          |
+| changedEmployeeId    | Long                           | Изменённый сотрудник       |
+| changedTransportId   | Long                           | Изменённый транспорт       |
+| changedTransportType | [[type_of_transports]]         | Тип изменённого транспорта |
+| actionDate           | Instant                        | Дата действия              |
 
 ---
 
