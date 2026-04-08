@@ -1,9 +1,7 @@
-
 ## Purpose
 Хранит локализованные значения статусов.
 
 ---
-
 ## Columns
 
 | Name             | Type         | Constraints | Description                 |
@@ -14,14 +12,12 @@
 | text_value       | VARCHAR(100) | NOT NULL    | Перевод статуса             |
 
 ---
-
 ## Relationships
 
 - Many-to-One → [[language_codes]]
 - Many-to-One → [[type_operation_status]]
 
 ---
-
 ## Notes
 
 - Реализация i18n через таблицу

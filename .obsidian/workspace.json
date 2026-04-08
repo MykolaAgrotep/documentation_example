@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipage/PostgresDB/crew_equipage_to_equipage.md",
+                "file": "Counterparty/TextRelation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "crew_equipage_to_equipage"
+              "title": "TextRelation"
             }
           },
           {
@@ -206,40 +206,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e0efaa1ebf62f1f",
+  "active": "6fb2ac91b99c45d1",
   "lastOpenFiles": [
-    "Equipage/MongoDB/transport_archive.md",
-    "Equipage/PostgresDB",
-    "Equipage/MongoDB/operation_status_archive.md",
-    "Equipage/MongoDB/group_equipage_archive.md",
+    "Counterparty/BasedLanguageEntity.md",
+    "Counterparty/TextRelation.md",
+    "Counterparty/StateContractText.md",
+    "Counterparty/TypeContract(Deprecated).md",
+    "Counterparty/StateContract.md",
+    "Counterparty/ContractResource.md",
+    "Counterparty/ContractDocument.md",
+    "Counterparty/Contract.md",
+    "Counterparty/AdditionalInfoContract.md",
+    "Counterparty/TollRoadTariff.md",
+    "Counterparty/PriceUnitAllowedField.md",
+    "Counterparty/PriceUnit.md",
+    "Counterparty/OtherTariff.md",
+    "Counterparty/CountryStayTariff.md",
+    "Counterparty/ContractWarningCountry.md",
+    "Counterparty/ContractTariffGrid.md",
+    "Counterparty/Contact.md",
+    "Equipage/MongoDB/Связи с Dto/EmployeeReceivedDto.md",
     "Equipage/MongoDB/equipage_history.md",
     "Equipage/MongoDB/equipage_archive.md",
     "Equipage/MongoDB/employee_archive.md",
-    "Equipage/MongoDB/Связи с Dto/EmployeeReceivedDto.md",
-    "Equipage/MongoDB/Связи с Dto/TransportReceivedDto.md",
-    "Common/type_of_transports.md",
-    "Common/TransportBasicDto.md",
-    "Common/EmployeeBasicDto.md",
-    "Equipage/MongoDB/Связи с Dto",
-    "Equipage/PostgresDB/type_operation_status.md",
     "Equipage/PostgresDB/type_operation_status_text.md",
+    "Transport",
+    "Transportations",
+    "Counterparty",
+    "Equipage/PostgresDB/type_operation_status.md",
     "Equipage/PostgresDB/operation_status.md",
     "Equipage/PostgresDB/language_codes.md",
-    "Equipage/PostgresDB/group_equipage_archive.md",
-    "Equipage/PostgresDB/equipages.md",
-    "Equipage/PostgresDB/equipage_transports.md",
-    "Equipage/PostgresDB/equipage_employees.md",
-    "Equipage/PostgresDB/crew_equipage_to_equipage.md",
-    "Equipage/MongoDB",
     "Equipage/PostgresDB/group_equipages.md",
-    "2026-04-07.md",
+    "Equipage/PostgresDB",
+    "Equipage/MongoDB/Связи с Dto",
+    "Equipage/MongoDB",
     "Без названия.base",
     "Без названия.canvas",
-    "Добро пожаловать.md",
     "Common",
-    "Без названия",
     "Equipage/Без названия.canvas",
-    "Equipage",
-    "создайте ссылку.md"
+    "Equipage"
   ]
 }

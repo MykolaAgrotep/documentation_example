@@ -6,7 +6,6 @@
 - хранит не snapshot, а **события изменений**
 
 ---
-
 ## Fields
 
 | Name                 | Type                           | Description                |
@@ -22,7 +21,6 @@
 | actionDate           | Instant                        | Дата действия              |
 
 ---
-
 ## Business Meaning
 
 - Логирует изменения:
@@ -31,7 +29,6 @@
   - изменения состава экипажа
 
 ---
-
 ## Notes
 
 - Реализация **event-based audit log**
