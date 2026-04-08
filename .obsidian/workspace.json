@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipage/MongoDB/EmployeeReceivedDto.md",
+                "file": "Equipage/MongoDB/Связи с Dto/TransportReceivedDto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EmployeeReceivedDto"
+              "title": "TransportReceivedDto"
             }
           },
           {
@@ -208,11 +208,13 @@
   },
   "active": "6fb2ac91b99c45d1",
   "lastOpenFiles": [
-    "Equipage/MongoDB/TransportReceivedDto.md",
-    "Equipage/MongoDB/transport_archive.md",
+    "Equipage/MongoDB/Связи с Dto/EmployeeReceivedDto.md",
+    "Equipage/MongoDB/Связи с Dto/TransportReceivedDto.md",
     "Common/type_of_transports.md",
-    "Equipage/MongoDB/EmployeeReceivedDto.md",
-    "EmployeeBasicDto.md",
+    "Common/TransportBasicDto.md",
+    "Common/EmployeeBasicDto.md",
+    "Equipage/MongoDB/Связи с Dto",
+    "Equipage/MongoDB/transport_archive.md",
     "Equipage/MongoDB/equipage_history.md",
     "Equipage/MongoDB/equipage_archive.md",
     "Equipage/MongoDB/employee_archive.md",
