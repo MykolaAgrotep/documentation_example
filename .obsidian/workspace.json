@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "588dde7a3993d8e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f58749654f3acd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fb2ac91b99c45d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "ee6305791846161c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipage/equipages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "equipages"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d108408218754c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dcf5aaff46969e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e0efaa1ebf62f1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "f5bcd8a629458b34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "a7f4630f8621ff78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "efd079989bb5d8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "15f4d8f21b55c8a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2ae3aaf42cc98cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "05b47c340c43f87c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "33df1c886e88d9f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "c991853580474869",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "3cf0881bcfa72b0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "67b5958509c8dcc9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6fb2ac91b99c45d1",
+  "lastOpenFiles": [
+    "Equipage/MongoDB/group_equipage_archive.md",
+    "Equipage/MongoDB/equipage_history.md",
+    "Equipage/MongoDB/transport_archive.md",
+    "Equipage/MongoDB/operation_status_archive.md",
+    "Equipage/MongoDB/equipage_archive.md",
+    "Equipage/MongoDB/employee_archive.md",
+    "Equipage/MongoDB",
+    "Equipage/equipages.md",
+    "Equipage/crew_equipage_to_equipage.md",
+    "Equipage/equipage_employees.md",
+    "Equipage/equipage_transports.md",
+    "Equipage/group_equipage_archive.md",
+    "Equipage/group_equipages.md",
+    "Equipage/language_codes.md",
+    "Equipage/operation_status.md",
+    "Equipage/type_operation_status.md",
+    "Equipage/type_operation_status_text.md",
+    "Common/type_of_transports.md",
+    "2026-04-07.md",
+    "Без названия.base",
+    "Без названия.canvas",
+    "Добро пожаловать.md",
+    "Common",
+    "Без названия",
+    "Equipage/Без названия.canvas",
+    "Equipage",
+    "создайте ссылку.md"
+  ]
+}
